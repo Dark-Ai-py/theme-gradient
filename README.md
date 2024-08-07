@@ -14,3 +14,5 @@ $ node main
 ```
 #### Note the variables for color and stuff currently have to be modifyed manualy and directly in the source code.
 #### The program only outputs the color in Hex format
+
+### **Playing around with the program is the best way to learn how it works**
